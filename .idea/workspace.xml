@@ -1,11 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="" />
+    <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="1er Commit Creado &#10;TEST (canal origen: 0, canal destino 0, Salida: 0)">
+      <change afterPath="$PROJECT_DIR$/src/Zapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ZappingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GITRefactorizacion.iml" beforeDir="false" afterPath="$PROJECT_DIR$/GITRefactorizacion.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OsY5BZw77ZmO04z1bh1NXogSL9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,10 +35,52 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ZappingTest.OrigenCeroDestinoCeroSalidaCero">
+    <configuration name="ZappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GITRefactorizacion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZappingTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZappingTest.OrigenCeroDestinoCeroSalidaCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GITRefactorizacion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZappingTest" />
+      <option name="METHOD_NAME" value="OrigenCeroDestinoCeroSalidaCero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ZappingTest.OrigenCeroDestinoCeroSalidaCero" />
+        <item itemvalue="JUnit.ZappingTest" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -29,5 +91,9 @@
       <updated>1682350573600</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1er Commit Creado &#10;TEST (canal origen: 0, canal destino 0, Salida: 0)" />
+    <option name="LAST_COMMIT_MESSAGE" value="1er Commit Creado &#10;TEST (canal origen: 0, canal destino 0, Salida: 0)" />
   </component>
 </project>
