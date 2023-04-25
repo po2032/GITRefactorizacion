@@ -53,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ZappingTest.Origen5Destino63Salida41">
+  <component name="RunManager" selected="JUnit.ZappingTest">
     <configuration name="ZappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GITRefactorizacion" />
       <option name="PACKAGE_NAME" value="" />
@@ -105,9 +105,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZappingTest" />
         <item itemvalue="JUnit.ZappingTest.Origen5Destino63Salida41" />
         <item itemvalue="JUnit.ZappingTest.Origen2Destino99Salida2" />
-        <item itemvalue="JUnit.ZappingTest" />
         <item itemvalue="JUnit.ZappingTest.Origen0Destino0Salida0" />
         <item itemvalue="JUnit.ZappingTest.Origen10Destino20Salida10" />
       </list>
