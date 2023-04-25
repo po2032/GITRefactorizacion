@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="3do Commit Creado &#10;TEST (canal origen: 2, canal destino 99, Salida: 2)&#10;Cambiada función en clase Zapping">
+    <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="5to Commit Creado &#10;TEST (canal origen: 63, canal destino 5, Salida: 41)&#10;No necesario cambiar ni refactorizar nada en la clase Zapping">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zapping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ZappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZappingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -73,11 +75,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZappingTest.Origen10Destino20Salida10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZappingTest.Origen1Destino51Salida49" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GITRefactorizacion" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ZappingTest" />
-      <option name="METHOD_NAME" value="Origen10Destino20Salida10" />
+      <option name="METHOD_NAME" value="Origen1Destino51Salida49" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,10 +108,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.ZappingTest" />
+        <item itemvalue="JUnit.ZappingTest.Origen1Destino51Salida49" />
         <item itemvalue="JUnit.ZappingTest.Origen5Destino63Salida41" />
         <item itemvalue="JUnit.ZappingTest.Origen2Destino99Salida2" />
         <item itemvalue="JUnit.ZappingTest.Origen0Destino0Salida0" />
-        <item itemvalue="JUnit.ZappingTest.Origen10Destino20Salida10" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +152,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682423292747</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="4to Commit Creado &#10;TEST (canal origen: 5, canal destino 63, Salida: 41)&#10;No necesario cambiar ni refactorizar nada en la clase Zapping">
+      <created>1682423722878</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1682423722878</updated>
+    </task>
+    <task id="LOCAL-00006" summary="5to Commit Creado &#10;TEST (canal origen: 63, canal destino 5, Salida: 41)&#10;No necesario cambiar ni refactorizar nada en la clase Zapping">
+      <created>1682423851119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682423851119</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +184,8 @@
     <MESSAGE value="1er Commit Creado &#10;TEST (canal origen: 0, canal destino 0, Salida: 0)" />
     <MESSAGE value="2do Commit Creado &#10;TEST (canal origen: 1, canal destino 2, Salida: 1)" />
     <MESSAGE value="3do Commit Creado &#10;TEST (canal origen: 2, canal destino 99, Salida: 2)&#10;Cambiada función en clase Zapping" />
-    <option name="LAST_COMMIT_MESSAGE" value="3do Commit Creado &#10;TEST (canal origen: 2, canal destino 99, Salida: 2)&#10;Cambiada función en clase Zapping" />
+    <MESSAGE value="4to Commit Creado &#10;TEST (canal origen: 5, canal destino 63, Salida: 41)&#10;No necesario cambiar ni refactorizar nada en la clase Zapping" />
+    <MESSAGE value="5to Commit Creado &#10;TEST (canal origen: 63, canal destino 5, Salida: 41)&#10;No necesario cambiar ni refactorizar nada en la clase Zapping" />
+    <option name="LAST_COMMIT_MESSAGE" value="5to Commit Creado &#10;TEST (canal origen: 63, canal destino 5, Salida: 41)&#10;No necesario cambiar ni refactorizar nada en la clase Zapping" />
   </component>
 </project>

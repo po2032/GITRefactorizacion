@@ -1,7 +1,5 @@
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
-
 class ZappingTest {
 
     @Test
@@ -57,6 +55,15 @@ class ZappingTest {
         int resultado = salida.canales(63,5);
         //ASSERT
         assertEquals(41,resultado);
+    }
+    @Test
+    void Origen1Destino51Salida49 (){
+        //ARRANGE
+        Zapping salida = new Zapping();
+        //ACT
+        int resultado = salida.canales(1,51);
+        //ASSERT
+        assertEquals(49,resultado);
     }
 
 }
