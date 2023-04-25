@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="3do Commit Creado &#10;TEST (canal origen: 2, canal destino 99, Salida: 2)&#10;Cambiada función en clase Zapping" />
+    <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="3do Commit Creado &#10;TEST (canal origen: 2, canal destino 99, Salida: 2)&#10;Cambiada función en clase Zapping">
+      <change beforePath="$PROJECT_DIR$/src/ZappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZappingTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +53,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ZappingTest.Origen2Destino99Salida2">
+  <component name="RunManager" selected="JUnit.ZappingTest.Origen5Destino63Salida41">
     <configuration name="ZappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GITRefactorizacion" />
       <option name="PACKAGE_NAME" value="" />
@@ -91,11 +93,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZappingTest.OrigenUnoDestinoDosSalidaUno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZappingTest.Origen5Destino63Salida41" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GITRefactorizacion" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ZappingTest" />
-      <option name="METHOD_NAME" value="OrigenUnoDestinoDosSalidaUno" />
+      <option name="METHOD_NAME" value="Origen5Destino63Salida41" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -103,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZappingTest.Origen5Destino63Salida41" />
         <item itemvalue="JUnit.ZappingTest.Origen2Destino99Salida2" />
         <item itemvalue="JUnit.ZappingTest" />
         <item itemvalue="JUnit.ZappingTest.Origen0Destino0Salida0" />
         <item itemvalue="JUnit.ZappingTest.Origen10Destino20Salida10" />
-        <item itemvalue="JUnit.ZappingTest.OrigenUnoDestinoDosSalidaUno" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +143,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682423215522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="3do Commit Creado &#10;TEST (canal origen: 2, canal destino 99, Salida: 2)&#10;Cambiada función en clase Zapping">
+      <created>1682423292747</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682423292747</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

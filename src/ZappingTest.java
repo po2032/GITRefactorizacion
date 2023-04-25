@@ -40,5 +40,14 @@ class ZappingTest {
         //ASSERT
         assertEquals(2,resultado);
     }
+    @Test
+    void Origen5Destino63Salida41 (){
+        //ARRANGE
+        Zapping salida = new Zapping();
+        //ACT
+        int resultado = salida.canales(5,63);
+        //ASSERT
+        assertEquals(41,resultado);
+    }
 
 }
