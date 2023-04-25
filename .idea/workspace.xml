@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="de55dae8-d56d-40ea-a5f0-bbd95f22e717" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Zapping.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Zapping.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ZappingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZappingTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,19 +34,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "create.test.in.the.same.root": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -50,7 +55,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ZappingTest">
+  <component name="RunManager" selected="JUnit.ZappingTest.Origen2Destino99Salida2">
     <configuration name="ZappingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GITRefactorizacion" />
       <option name="PACKAGE_NAME" value="" />
@@ -60,11 +65,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ZappingTest.OrigenCeroDestinoCeroSalidaCero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZappingTest.Origen0Destino0Salida0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GITRefactorizacion" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ZappingTest" />
-      <option name="METHOD_NAME" value="OrigenCeroDestinoCeroSalidaCero" />
+      <option name="METHOD_NAME" value="Origen0Destino0Salida0" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZappingTest.Origen10Destino20Salida10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GITRefactorizacion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZappingTest" />
+      <option name="METHOD_NAME" value="Origen10Destino20Salida10" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZappingTest.Origen2Destino99Salida2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GITRefactorizacion" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ZappingTest" />
+      <option name="METHOD_NAME" value="Origen2Destino99Salida2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -82,9 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZappingTest.Origen2Destino99Salida2" />
         <item itemvalue="JUnit.ZappingTest" />
+        <item itemvalue="JUnit.ZappingTest.Origen0Destino0Salida0" />
+        <item itemvalue="JUnit.ZappingTest.Origen10Destino20Salida10" />
         <item itemvalue="JUnit.ZappingTest.OrigenUnoDestinoDosSalidaUno" />
-        <item itemvalue="JUnit.ZappingTest.OrigenCeroDestinoCeroSalidaCero" />
       </list>
     </recent_temporary>
   </component>
@@ -104,11 +131,30 @@
       <option name="project" value="LOCAL" />
       <updated>1682355413008</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2do Commit Creado &#10;TEST (canal origen: 1, canal destino 2, Salida: 1)">
+      <created>1682355787974</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682355787974</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1er Commit Creado &#10;TEST (canal origen: 0, canal destino 0, Salida: 0)" />
-    <option name="LAST_COMMIT_MESSAGE" value="1er Commit Creado &#10;TEST (canal origen: 0, canal destino 0, Salida: 0)" />
+    <MESSAGE value="2do Commit Creado &#10;TEST (canal origen: 1, canal destino 2, Salida: 1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2do Commit Creado &#10;TEST (canal origen: 1, canal destino 2, Salida: 1)" />
   </component>
 </project>
